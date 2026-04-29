@@ -44,7 +44,7 @@ export function GeminiChat({
   // This eliminates Edge Function timeout but exposes the API key
   // TODO: Replace this placeholder with your actual Gemini API key
   // Get your key from: https://aistudio.google.com/app/apikey
-  const GEMINI_API_KEY = "AIzaSyB1WTK5ERDDqU8g8pL4ljWq7k3mDDO7mg4";
+  const GEMINI_API_KEY = "AIzaSyDh7tLQ6mekMytjY1nnRibih1Nw964b_mo";
 
   // Supported file types with their MIME types
   const SUPPORTED_FILE_TYPES: Record<string, string> = {
